@@ -1,0 +1,13 @@
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\ControlGroup.csprojAssemblyReference.cache
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\Pages\Menu.xaml.g.cs
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\ControlGroup.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\ControlGroup.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\ControlGroup.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\ControlGroup.dll
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\ControlGroup.pdb
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\bin\Debug\netstandard2.0\ControlGroup.deps.json
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\bin\Debug\netstandard2.0\ControlGroup.dll
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\bin\Debug\netstandard2.0\ControlGroup.pdb
+C:\Users\jimmy\Desktop\ControlGroup\ControlGroup\ControlGroup\obj\Debug\netstandard2.0\XamlC.stamp

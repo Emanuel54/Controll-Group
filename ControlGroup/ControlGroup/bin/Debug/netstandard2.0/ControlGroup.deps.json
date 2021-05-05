@@ -1,0 +1,180 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "21046fe383f7772596289ef47a4b4e19e35ca396"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "ControlGroup/1.0.0": {
+        "dependencies": {
+          "FreshMvvm": "3.0.0",
+          "NETStandard.Library": "2.0.3",
+          "PropertyChanged.Fody": "2.5.13",
+          "Xamarin.Forms": "4.8.0.1269"
+        },
+        "runtime": {
+          "ControlGroup.dll": {}
+        }
+      },
+      "Fody/3.2.9": {},
+      "FreshMvvm/3.0.0": {
+        "dependencies": {
+          "System.Reactive": "4.0.0",
+          "Xamarin.Forms": "4.8.0.1269"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FreshIOC.dll": {
+            "assemblyVersion": "1.0.7010.22624",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/FreshMvvm.dll": {
+            "assemblyVersion": "1.0.7010.22624",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "PropertyChanged.Fody/2.5.13": {
+        "dependencies": {
+          "Fody": "3.2.9",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/PropertyChanged.dll": {
+            "assemblyVersion": "2.5.13.0",
+            "fileVersion": "2.5.13.0"
+          }
+        }
+      },
+      "System.Reactive/4.0.0": {
+        "dependencies": {
+          "System.Runtime.InteropServices.WindowsRuntime": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Reactive.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.398"
+          }
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Runtime.InteropServices.WindowsRuntime/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.InteropServices.WindowsRuntime.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.6.24705.1"
+          }
+        }
+      },
+      "Xamarin.Forms/4.8.0.1269": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.8.0.325"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.8.0.325"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.8.0.325"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlGroup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fody/3.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XlyrpJccSXIeBhXNMnpqt8iK8X4bw+zWJ/5UGE7Iv9qcSsxGd1hD2Lbh+m4cVsPfDCE49vxyD951B2Z8jldCEg==",
+      "path": "fody/3.2.9",
+      "hashPath": "fody.3.2.9.nupkg.sha512"
+    },
+    "FreshMvvm/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4iNPymr/H5Qt7rhzutA2foktrMTtGgpdaBDnHbz7mAGGqvpZsj1K34IuvkE4VHKHbvWI3enC24WVs9gS7OMEfQ==",
+      "path": "freshmvvm/3.0.0",
+      "hashPath": "freshmvvm.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HvAzpoaIqrmZfsHAN4rLFji0r7YY5TP8r3SdkziXN7qU9KCpRIG+zfcBx+mIri/jkBNqjq4iWIfuYNtFBjSQ/g==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "PropertyChanged.Fody/2.5.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RJ3oo1IIpLfhaU1yx9j6yRrkWHvES8JUBZ1hvBUb82rDYNbew39fsAMAJEiUVIzE3pofuZba3vx7A7SUsf8wQg==",
+      "path": "propertychanged.fody/2.5.13",
+      "hashPath": "propertychanged.fody.2.5.13.nupkg.sha512"
+    },
+    "System.Reactive/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l7AZOWqr++qiIppQxNvUsy24u73Qm81vIv6buMSv+KSesatxoi5mVBmgkYjFMhGAfz2C7fh+QdlskKOAVvrL0A==",
+      "path": "system.reactive/4.0.0",
+      "hashPath": "system.reactive.4.0.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kqsiSfCAc8+v3Ez719s21lGthxuNi6lhAGmCGH3jdL9KMK+T8V9zsFrzQ/enDL1ISwTWRlcFh2Nq5yFx6wcU+w==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.InteropServices.WindowsRuntime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BB4Y4G5QH6jPlnI4l8gpD0QxbaUFUUz5478TB2fxLB4pgZbJSKDLQfDaReCbopPPJB5LkwskLo86mXBq2KzpHg==",
+      "path": "system.runtime.interopservices.windowsruntime/4.3.0",
+      "hashPath": "system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.8.0.1269": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zK2lUoLr93c02g+0iPJR2mwc+ZMugnHCGe+JS2Ltpa6bqiH7Bx6jpT67THzQtVQMxT2BxmuwMLtVX39ddCSwAw==",
+      "path": "xamarin.forms/4.8.0.1269",
+      "hashPath": "xamarin.forms.4.8.0.1269.nupkg.sha512"
+    }
+  }
+}
